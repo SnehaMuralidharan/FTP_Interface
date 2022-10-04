@@ -1,21 +1,3 @@
-*&---------------------------------------------------------------------*
-*& Report  ZPP_ALL_UPLOAD_JOB_TICKET
-*&    Title       : Program to create Multiple Job Tickets based on the excel
-*&    Author      : Arul Kumar / Velraj T (CLSS)
-*&    Created On  : 12-July-2019
-*&    Functional
-*&    Consultant  : Andrea Mietta (Tristone)
-*&    Application : PP
-*&    Description : This new Program will create mutiple job tickets in the TCode ZJTKT1
-*&                  based on the uploaded excel file
-*&    Requests    : 1.D02K938334  CLSS::PP::RAK::BN10000158::CR17251::Job ticket Interface V11
-*&--------------------------------------------------------------------------------------------*
-*&----------------------------------    Change History   -------------------------------------*
-*&--------------------------------------------------------------------------------------------*
-*&    S.No  | Changed By        |   Changed on    | Request(s)
-*&      1   | xxxxxxxxxxxxxxxxx |   XX-XX-XXXX    |
-*&    Reason      :
-*&--------------------------------------------------------------------------------------------*
 
 REPORT  zpp_all_upload_job_ticket MESSAGE-ID zpp_job_ticket.
 TYPE-POOLS: truxs.
